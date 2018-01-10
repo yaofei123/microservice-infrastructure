@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Primary;
 
 /**
  * @Description API网关配置类
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 11:03
  * @Modified by:
  **/

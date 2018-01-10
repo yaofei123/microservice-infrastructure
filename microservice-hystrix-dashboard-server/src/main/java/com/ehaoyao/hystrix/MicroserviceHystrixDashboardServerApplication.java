@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboar
 
 /**
  * @Description API熔断看板
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 11:03
  * @Modified by:
  **/

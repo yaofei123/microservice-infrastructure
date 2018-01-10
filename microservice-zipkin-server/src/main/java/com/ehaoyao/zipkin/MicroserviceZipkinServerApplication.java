@@ -9,7 +9,7 @@ import org.springframework.cloud.sleuth.zipkin.stream.EnableZipkinStreamServer;
 import zipkin.server.EnableZipkinServer;
 /**
  * @Description 服务跟踪中心
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 11:03
  * @Modified by:
  **/
